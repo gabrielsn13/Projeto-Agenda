@@ -38,7 +38,7 @@ namespace Agenda.Web.Controllers
         }
 
         [HttpPost]
-        public ActionResult CadastrarAgendamento(AgendamentoViewModel model, int Clientes,int Salas,DateTime data)
+        public ActionResult CadastrarAgendamento(AgendamentoViewModel model, int Clientes,int Salas)
         {
 
             if (!ModelState.IsValid)
@@ -51,7 +51,7 @@ namespace Agenda.Web.Controllers
                     TITULO = model.TITULO,
                     ID_SALA = Salas,
                     ID_CLIENTE = Clientes,
-                    DATA = data,
+                    DATA = DateTime.Now,
                     OBSERVACOES = model.OBSERVACOES
                 };
                 _agendamentoNegocios.Salvar(agendamento);

@@ -1,7 +1,15 @@
 ﻿@{
-    ViewBag.Title = "About";
+    ViewBag.Title = "Sobre";
 }
 <h2>@ViewBag.Title.</h2>
-<h3>@ViewBag.Message</h3>
 
-<p>Use this area to provide additional information.</p>
+
+<p>
+    O sistema de Agendamento Online possui dois cadastros: Cliente e Agendamentos. O cadastro de cliente permite cadastrar quantos telefones a pessoa quiser, basta clicar em adicionar e depois
+    concluir quando terminar de inserir os telefones.
+    Para agendar uma sala é necessário cadastrar o cliente que irá agenda-la.
+    O sistema mostra quais são as salas e os status de cada uma delas para saber se a mesma encontra disponível ou não. Ao realizar um agendamento automaticamente o sistema muda o status para “Ocupado” e após concluir, ela volta para o status "Disponível". 
+    Se a pessoa tentar cadastrar um agendamento para uma sala que se encontra "Ocupada" ele ira mostrar uma mensagem de erro. O mesmo ocorre quando a pessoa tenta excluir um cliente que possui agendamentos em abertos.
+    Conlcua todos os agendamentos do cliente antes de remove-lo.
+
+</p>
