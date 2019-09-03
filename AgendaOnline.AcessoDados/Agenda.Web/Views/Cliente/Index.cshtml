@@ -1,0 +1,51 @@
+﻿@model IEnumerable<AgendaOnline.Dominio.Cliente>
+
+@{
+    ViewBag.Title = "Clientes";
+}
+
+<h2>Clientes</h2>
+
+<p>
+    @Html.ActionLink("Novo", "Inserir")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CPF_CNPJ)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NOME)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SOBRENOME)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CONJUGE)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CPF_CNPJ)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NOME)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SOBRENOME)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CONJUGE)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Editar", new {  id=item.IDCLIENTE  }) |
+            @Html.ActionLink("Detalhes", "Detalhes", new {  id=item.IDCLIENTE  }) |
+            @Html.ActionLink("Excluir", "Excluir", new {  id=item.IDCLIENTE  })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,43 @@
+﻿@model IEnumerable<AgendaOnline.Dominio.ListagemSala>
+
+@{
+    ViewBag.Title = "Salas";
+}
+
+<h2>Salas</h2>
+
+<p>
+    @Html.ActionLink("Novo", "CadastrarSala")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IDSALA)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SALA)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.STATUS)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IDSALA)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SALA)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.STATUS)
+            </td>
+        </tr>
+    }
+
+</table>
+

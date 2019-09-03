@@ -1,0 +1,65 @@
+﻿@model Agenda.Web.ViewModels.AgendamentoViewModel
+
+@{
+    ViewBag.Title = "Concluir";
+}
+
+
+<h2>Concluir</h2>
+
+<h3>Tem certeza que deseja concluir o Agendamento?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IDAGENDAMENTO)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IDAGENDAMENTO)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TITULO)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TITULO)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ID_SALA)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ID_SALA)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ID_CLIENTE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ID_CLIENTE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OBSERVACOES)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OBSERVACOES)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Concluir" class="btn btn-default" /> |
+            @Html.ActionLink("Voltar", "ListaAgendamentos")
+        </div>
+    }
+</div>

@@ -1,0 +1,7 @@
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.AcessoDados\obj\Debug\AgendaOnline.AcessoDados.csprojAssemblyReference.cache
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.AcessoDados\obj\Debug\AgendaOnline.AcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.AcessoDados\bin\Debug\AgendaOnline.AcessoDados.dll.config
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.AcessoDados\bin\Debug\AgendaOnline.AcessoDados.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.AcessoDados\bin\Debug\AgendaOnline.AcessoDados.pdb
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.AcessoDados\obj\Debug\AgendaOnline.AcessoDados.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.AcessoDados\obj\Debug\AgendaOnline.AcessoDados.pdb

@@ -1,0 +1,185 @@
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\Agenda.Web.dll.config
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\Agenda.Web.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\Agenda.Web.pdb
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\csc.exe
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\csc.exe.config
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\csc.rsp
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\csi.exe
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\csi.exe.config
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\csi.rsp
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.AppContext.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Console.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\vbc.exe
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\vbc.exe.config
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\vbc.rsp
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\Antlr3.Runtime.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\Newtonsoft.Json.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Helpers.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Mvc.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Optimization.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Razor.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.WebPages.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\WebGrease.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Helpers.xml
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Mvc.xml
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Optimization.xml
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Razor.xml
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.WebPages.xml
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\Newtonsoft.Json.xml
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\Antlr3.Runtime.pdb
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\obj\Debug\Agenda.Web.csprojAssemblyReference.cache
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\obj\Debug\Agenda.Web.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\obj\Debug\Agenda.Web.csproj.CopyComplete
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\obj\Debug\Agenda.Web.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\obj\Debug\Agenda.Web.pdb
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\AgendaOnline.AcessoDados.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\AgendaOnline.Dominio.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\AgendaOnline.AcessoDados.pdb
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\AgendaOnline.AcessoDados.dll.config
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\AgendaOnline.Dominio.pdb
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\JsAction.BASE.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\JsAction.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\WebActivator.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\Agenda.Web\bin\JsAction.xml
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\Agenda.Web.dll.config
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\Agenda.Web.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\Agenda.Web.pdb
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\csc.exe
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\csc.exe.config
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\csc.rsp
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\csi.exe
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\csi.exe.config
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\csi.rsp
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.AppContext.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Console.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.IO.Compression.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.IO.Pipes.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Security.Claims.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.ValueTuple.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Xml.XPath.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\vbc.exe
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\vbc.exe.config
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\vbc.rsp
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\VBCSCompiler.exe
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\AgendaOnline.AcessoDados.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\AgendaOnline.Dominio.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\Antlr3.Runtime.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\JsAction.BASE.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\JsAction.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\Newtonsoft.Json.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Helpers.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Mvc.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Optimization.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Razor.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.WebPages.Deployment.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.WebPages.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.WebPages.Razor.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\WebActivator.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\WebGrease.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\AgendaOnline.AcessoDados.pdb
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\AgendaOnline.AcessoDados.dll.config
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\AgendaOnline.Dominio.pdb
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\JsAction.xml
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Helpers.xml
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Mvc.xml
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Optimization.xml
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.Razor.xml
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.WebPages.xml
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.WebPages.Deployment.xml
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\System.Web.WebPages.Razor.xml
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\Newtonsoft.Json.xml
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\Antlr3.Runtime.pdb
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\pt-br\System.Web.Helpers.resources.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\pt-br\System.Web.Mvc.resources.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\pt-br\System.Web.Optimization.resources.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\pt-br\System.Web.Razor.resources.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\pt-br\System.Web.WebPages.resources.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\obj\Debug\Agenda.Web.csprojAssemblyReference.cache
+C:\AgendaOnline.AcessoDados\Agenda.Web\obj\Debug\Agenda.Web.csproj.CoreCompileInputs.cache
+C:\AgendaOnline.AcessoDados\Agenda.Web\obj\Debug\Agenda.Web.csproj.CopyComplete
+C:\AgendaOnline.AcessoDados\Agenda.Web\obj\Debug\Agenda.Web.dll
+C:\AgendaOnline.AcessoDados\Agenda.Web\obj\Debug\Agenda.Web.pdb
+C:\AgendaOnline.AcessoDados\Agenda.Web\bin\WindowsBase.dll

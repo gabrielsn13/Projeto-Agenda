@@ -1,0 +1,77 @@
+﻿@model AgendaOnline.Dominio.Agendamento
+
+@{
+    ViewBag.Title = "Agendar";
+}
+<h2>Agendar</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Agendamento</h4>
+        <hr />
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TITULO, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.TITULO, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.TITULO, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="control-label col-md-2">
+                @Html.Label("SALA:")
+            </div>
+            <div class="col-md-10">
+                @Html.DropDownList("Salas", "Selecione uma sala")
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="control-label col-md-2">
+                @Html.Label("CLIENTE:")
+            </div>
+            <div class="col-md-10">
+                @Html.DropDownList("Clientes", "Selecione um cliente")
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DATA, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <!--<input type="text" id="data" name="Data" style="width: 325px" />-->
+                @Html.EditorFor(model => model.DATA, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.DATA, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.OBSERVACOES, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.OBSERVACOES, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.OBSERVACOES, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Voltar", "ListaAgendamentos")
+</div>
+@section Scripts {
+    <script>
+        $(document).ready(function ()
+        {
+           $("#data").inputmask("mask", { "mask": "99/99/9999" });
+    });
+    </script>
+}

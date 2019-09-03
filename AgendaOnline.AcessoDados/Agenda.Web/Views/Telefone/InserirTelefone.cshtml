@@ -1,0 +1,59 @@
+﻿@model Agenda.Web.ViewModels.TelefoneViewModel
+
+
+@{
+    ViewBag.Title = "Cadastro de Telefone";
+}
+
+<h2>Cadastro de Telefone</h2>
+
+@using (Html.BeginForm("InserirTelefone", "Telefone", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Insira o número de telefone</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.DDD, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.DDD, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.DDD, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TELEFONE, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.TELEFONE, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.TELEFONE, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="control-label col-md-2">
+                @Html.Label("TIPO DE TELEFONE:")
+            </div>
+            <div class="col-md-10">
+                @Html.DropDownList("TipoTelefone", "Selecione uma Tipo")
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" name="submitButton" value="Adicionar" id="btnAdicionar" />
+            </div>
+        </div>
+    </div>
+}
+@using (Html.BeginForm("ConcluirTelefone", "Telefone", FormMethod.Post))
+{
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" name="submitButton" value="Concluir" class="btn btn-default" />
+        </div>
+    </div>
+}
+<div>
+    @Html.ActionLink("Voltar", "Index")
+</div>

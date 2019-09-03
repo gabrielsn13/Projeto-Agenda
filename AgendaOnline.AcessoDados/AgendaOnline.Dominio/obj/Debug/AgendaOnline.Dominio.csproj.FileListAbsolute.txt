@@ -1,0 +1,20 @@
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.Dominio\obj\Debug\AgendaOnline.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.Dominio\bin\Debug\AgendaOnline.Dominio.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.Dominio\bin\Debug\AgendaOnline.Dominio.pdb
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.Dominio\bin\Debug\AgendaOnline.AcessoDados.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.Dominio\bin\Debug\AgendaOnline.AcessoDados.pdb
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.Dominio\bin\Debug\AgendaOnline.AcessoDados.dll.config
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.Dominio\obj\Debug\AgendaOnline.Dominio.csprojAssemblyReference.cache
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.Dominio\obj\Debug\AgendaOnline.Dominio.csproj.CopyComplete
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.Dominio\obj\Debug\AgendaOnline.Dominio.dll
+C:\Users\WIN10\Documents\Visual Studio 2019\Projetos\AgendaOnline\AgendaOnline.AcessoDados\AgendaOnline.Dominio\obj\Debug\AgendaOnline.Dominio.pdb
+C:\AgendaOnline.AcessoDados\AgendaOnline.Dominio\bin\Debug\AgendaOnline.Dominio.dll
+C:\AgendaOnline.AcessoDados\AgendaOnline.Dominio\bin\Debug\AgendaOnline.Dominio.pdb
+C:\AgendaOnline.AcessoDados\AgendaOnline.Dominio\bin\Debug\AgendaOnline.AcessoDados.dll
+C:\AgendaOnline.AcessoDados\AgendaOnline.Dominio\bin\Debug\AgendaOnline.AcessoDados.pdb
+C:\AgendaOnline.AcessoDados\AgendaOnline.Dominio\bin\Debug\AgendaOnline.AcessoDados.dll.config
+C:\AgendaOnline.AcessoDados\AgendaOnline.Dominio\obj\Debug\AgendaOnline.Dominio.csprojAssemblyReference.cache
+C:\AgendaOnline.AcessoDados\AgendaOnline.Dominio\obj\Debug\AgendaOnline.Dominio.csproj.CoreCompileInputs.cache
+C:\AgendaOnline.AcessoDados\AgendaOnline.Dominio\obj\Debug\AgendaOnline.Dominio.csproj.CopyComplete
+C:\AgendaOnline.AcessoDados\AgendaOnline.Dominio\obj\Debug\AgendaOnline.Dominio.dll
+C:\AgendaOnline.AcessoDados\AgendaOnline.Dominio\obj\Debug\AgendaOnline.Dominio.pdb

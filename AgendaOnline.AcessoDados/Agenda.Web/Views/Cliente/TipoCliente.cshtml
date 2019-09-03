@@ -1,0 +1,27 @@
+﻿@model IEnumerable<AgendaOnline.Dominio.TipoCliente>
+
+@{
+    ViewBag.Title = "TipoCliente";
+}
+
+<h2>TipoCliente</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new {  id=item.IDTIPO  }) |
+            @Html.ActionLink("Details", "Details", new {  id=item.IDTIPO  }) |
+            @Html.ActionLink("Delete", "Delete", new {  id=item.IDTIPO  })
+        </td>
+    </tr>
+}
+
+</table>
